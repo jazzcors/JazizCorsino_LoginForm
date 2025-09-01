@@ -81,7 +81,7 @@ input:active::placeholder {
     margin-left: 20px;
     align-items: center;
     border: solid 2px;
-    border-color: black;
+    border-color: #007BFF;
 }
 .btn:hover {
     background-color: #007BFF;
@@ -90,4 +90,5 @@ input:active::placeholder {
 .btn1:active{
     background-color: blue;
     transform:scale(0.95)
+
 }
